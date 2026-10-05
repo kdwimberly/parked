@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"PARKED. | Mobile Detailing",description:"Professional mobile detailing at home, work, or wherever you are parked."}; export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
